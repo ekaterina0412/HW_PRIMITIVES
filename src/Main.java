@@ -14,7 +14,7 @@ public class Main {
         ticketPrice = 13_676;
         rublsForMile = 20;
 
-        int bonusMiles = ticketPrice/rublsForMile;
+        int bonusMiles = ticketPrice / rublsForMile;
 
         System.out.println("Будет начислено бонусов: " + bonusMiles);
     }
